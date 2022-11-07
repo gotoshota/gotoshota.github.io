@@ -29,3 +29,5 @@
 - 高分子学会
 - 化学工学会
 
+## E-mail 
+goto-sh [at] cheng.es.osaka-u.ac.jp
