@@ -2,8 +2,23 @@
 ポートフォリオサイトです。
 順次更新していきます。
 
+## 経歴
+1997年生
+
+2020/4 大阪大学大学院基礎工学研究科 博士前期課程 入学
+
+2022/3 大阪大学大学院基礎工学研究科 博士前期課程 修了
+
+2022/4 大阪大学大学院基礎工学研究科 博士後期課程 入学
+
+2025/3 大阪大学大学院基礎工学研究科 博士後期課程 修了見込み
+
 ## 所属
 大阪大学 大学院 基礎工学研究科 物質創成専攻 化学工学領域 松林研究室 博士後期課程学生 1年
+
+大阪大学 博士課程教育リーディングプログラム インタラクティブ物質科学・カデットプログラム 8期生
+
+住友化学高度情報人材育成奨学金 奨学生
 
 ## 出版物
 - N. Tomoshige, S. Goto, H. Mizuno, T. Mori, K. Kim and N. Matubayasi, 「Understanding the scaling of boson peak through insensitivity of elastic heterogeneity to bending rigidity in polymer glasses」, J. Phys.: Condens. Matter, vol. 33, no. 27, p. 274002, 5月 2021, doi: [10.1088/1361-648X/abfd51](https://doi.org/10.1088/1361-648x/abfd51).
