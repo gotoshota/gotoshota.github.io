@@ -1,0 +1,1 @@
+# gotoshota.github.io
