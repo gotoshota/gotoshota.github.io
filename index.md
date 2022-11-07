@@ -29,6 +29,9 @@
 - 高分子学会
 - 化学工学会
 
+## Keyword
+統計力学、分子動力学、高分子、ガラス
+
 ## E-mail 
 `goto-sh [at] cheng.es.osaka-u.ac.jp`
 
