@@ -21,8 +21,8 @@
 - 住友化学高度情報人材育成奨学金 奨学生
 
 ## 出版物
-- N. Tomoshige, S. Goto, H. Mizuno, T. Mori, K. Kim and N. Matubayasi, "Understanding the scaling of boson peak through insensitivity of elastic heterogeneity to bending rigidity in polymer glasses", J. Phys.: Condens. Matter, vol. 33, no. 27, p. 274002, 2021, doi: [10.1088/1361-648X/abfd51](https://doi.org/10.1088/1361-648x/abfd51).
-- S. Goto, K. Kim and N. Matubayasi, "Effects of chain length on Rouse modes and non-Gaussianity in linear and ring polymer melts", J. Chem. Phys., vol. 155, no. 12, p. 124901, 2021, doi: [10.1063/5.0061281](https://aip.scitation.org/doi/10.1063/5.0061281).
+- N. Tomoshige, **S. Goto**, H. Mizuno, T. Mori, K. Kim and N. Matubayasi, "Understanding the scaling of boson peak through insensitivity of elastic heterogeneity to bending rigidity in polymer glasses", J. Phys.: Condens. Matter, vol. 33, no. 27, p. 274002, 2021, doi: [10.1088/1361-648X/abfd51](https://doi.org/10.1088/1361-648x/abfd51).
+- **S. Goto**, K. Kim and N. Matubayasi, "Effects of chain length on Rouse modes and non-Gaussianity in linear and ring polymer melts", J. Chem. Phys., vol. 155, no. 12, p. 124901, 2021, doi: [10.1063/5.0061281](https://aip.scitation.org/doi/10.1063/5.0061281).
 
 ## 受賞
 - 博士前期課程終了時に、大阪大学大学院基礎工学研究科物質創成専攻長賞 （専攻内約120名中上位者4名）
